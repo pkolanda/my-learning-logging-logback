@@ -1,4 +1,4 @@
-package org.exmaple.logging;
+package my.learnings.logging.logback;;
 
 public class LoggingExample {
 

@@ -1,4 +1,4 @@
-package org.exmaple.logging;
+package my.learnings.logging.logback;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
