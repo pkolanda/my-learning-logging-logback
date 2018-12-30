@@ -1,1 +1,1 @@
-java -cp "target/my-learning-logging-logback-0.1/my-learning-logging-logback-0.1/*" org.exmaple.logging.HelloWorld1
+java -cp "target/my-learning-logging-logback-0.1/my-learning-logging-logback-0.1/*" my.learnings.logging.logback.HelloWorld1
