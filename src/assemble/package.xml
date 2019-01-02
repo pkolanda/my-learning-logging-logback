@@ -12,4 +12,17 @@
       <scope>runtime</scope>
     </dependencySet>
   </dependencySets>
+  <files>
+    <file>
+      <source>src/main/resources/logback.xml</source>
+      <outputDirectory>/</outputDirectory>
+      <filtered>true</filtered>
+    </file>
+    <file>
+      <source>src/main/resources/run.sh</source>
+      <outputDirectory>/</outputDirectory>
+      <fileMode>0755</fileMode>
+      <filtered>true</filtered>
+    </file>
+  </files>
 </assembly>
